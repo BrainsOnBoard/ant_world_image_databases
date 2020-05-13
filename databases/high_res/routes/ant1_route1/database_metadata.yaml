@@ -1,0 +1,13 @@
+%YAML:1.0
+---
+metadata:
+   time: "2020-05-13 17:12:48"
+   project_git_commit: "62b25989-dirty"
+   bob_robotics_git_commit: "62b25989-dirty"
+   type: route
+   camera:
+      name: opengl
+      resolution: [ 720, 150 ]
+      isPanoramic: 0
+   needsUnwrapping: 0
+   isGreyscale: 0
