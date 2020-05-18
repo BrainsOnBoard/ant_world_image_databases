@@ -1,9 +1,9 @@
 %YAML:1.0
 ---
 metadata:
-   time: "2020-05-13 15:35:47"
-   project_git_commit: b5036720-dirty
-   bob_robotics_git_commit: b5036720-dirty
+   time: "2020-05-18 14:09:31"
+   project_git_commit: "092c705e"
+   bob_robotics_git_commit: "092c705e"
    type: grid
    grid:
       beginAtMM: [ -2500., -2500., 1500. ]

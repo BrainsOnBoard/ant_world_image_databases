@@ -1,9 +1,9 @@
 %YAML:1.0
 ---
 metadata:
-   time: "2020-05-13 17:12:48"
-   project_git_commit: "62b25989-dirty"
-   bob_robotics_git_commit: "62b25989-dirty"
+   time: "2020-05-18 13:44:26"
+   project_git_commit: "092c705e"
+   bob_robotics_git_commit: "092c705e"
    type: route
    camera:
       name: opengl
